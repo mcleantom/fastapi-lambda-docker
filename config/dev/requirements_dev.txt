@@ -1,0 +1,4 @@
+uvicorn
+black
+isort
+pre-commit
