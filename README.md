@@ -1,2 +1,2 @@
 # fastapi-lambda-docker
-Deploying a fastapi app to AWS Lambda with Docker
+Deploying a FastAPI app to AWS Lambda with Docker and AWS Elastic Container Registery
